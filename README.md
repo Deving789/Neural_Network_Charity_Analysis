@@ -1,9 +1,11 @@
 # Neural_Network_Charity_Analysis
 Preprocessing Data for a Neural Network model and optimizing it
 
-Overview of the analysis: Explain the purpose of this analysis.
+## Overview of the analysis:
 
-Results: Using bulleted lists and images to support your answers, address the following questions.
+Using my knowledge from machine learning and neural networks for this project I use the features in this dataset I create a binary classifier that will tell the customer whether or not the applicants will be successful using alphabet soup. The dataset contains over 34,000 organizations that have been funded by alphabet soup. There are a number of columns that capture the metadata of each organization such as organization type, the use of funding amongst others. This project is comprised of 3 steps: Preprocessing the data for the neural network, Compile,train and evaluate the model & finally optimizing the model.
+
+## Results: Using bulleted lists and images to support your answers, address the following questions.
 
 Data Preprocessing
 What variable(s) are considered the target(s) for your model?
