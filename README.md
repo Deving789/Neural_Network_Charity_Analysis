@@ -26,6 +26,8 @@ How many neurons, layers, and activation functions did you select for your neura
 Was the model able to achieve the target model performance?
 - Although we the target for the model was to be 75% or above, I was not able to reach the target.
 
-What steps did were taken to try and increase model performance?
+What steps were taken to try and increase model performance?
+- Some of the steps I took to try and make the model more accurate were adding hidden layers, changing the activation type, changing the number of epochs and changing the number of neurons in each layer.
 
-## Summary: Summarize the overall results of the deep learning model. Include a recommendation for how a different model could solve this classification problem, and explain your recommendation.
+## Summary: 
+
